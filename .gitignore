@@ -1,0 +1,12 @@
+# Ignore everything
+*
+
+# Except below files.
+!main.py
+!requirements.txt
+!Dockerfile
+!.gitignore
+!Instructions.info
+!Dockerfile.Multistage
+!favicon.ico
+!vols-bindmounts.txt
